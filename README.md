@@ -6,18 +6,14 @@ Script take IP as input and brute force against all the registers. Identified va
 * pip install -r requirements.txt
 
 
-## Scanners:
-* NMAP - Top ports Scan
-* SSLYZE - SSL Vulnerability Scan
-* TESTSSL - Weak Ciphers Scan
-* HEADER - HTTP Security Headers Scan
-* CERTIFICATE - Certificate Scan
-
+## Scan:
+* Coil Register
+* Holding Register
+* Discrete Input
+* Input Register
 
 ## Execution:
-* python main.py -i ip_file.txt
+* python main.py -i ip
 
 ## Output
-* Sqlite DB File
 * Excel File
-* Zip File (Contains - DB, Excel and all the tool output)
