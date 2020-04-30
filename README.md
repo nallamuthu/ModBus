@@ -1,4 +1,4 @@
-# :white_flower: ModBus :white_flower:
+# :curly_loop: ModBus Scanner :curly_loop:
 
 Script take IP as input and brute force against all the registers. Identified valid registered will be exported to excel file
 
