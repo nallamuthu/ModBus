@@ -13,7 +13,7 @@ Script take IP as input and brute force against all the registers. Identified va
 * Input Register
 
 ## Execution:
-* python main.py -i ip
+* python register_scanner.py -i ip
 
 ## Output
 * Excel File
