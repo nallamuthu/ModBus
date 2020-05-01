@@ -1,3 +1,4 @@
-ModbusClient
+pyModbusTCP
 xlwt
 tqdm
+argparse
